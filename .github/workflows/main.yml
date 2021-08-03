@@ -16,4 +16,4 @@ jobs:
         server: localhost
         username: anglesson
         password: 090690
-        server-dir: ~/Documents/server-fake
+        server-dir: home/anglesson/Documents/server-fake
